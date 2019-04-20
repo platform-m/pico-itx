@@ -1,5 +1,8 @@
 # M for Form Factor Pico-ITX
 
+[![License: CERN OHL v.1.2](https://img.shields.io/badge/license-CERN%20OHL%20v.1.2-lightgrey.svg)](https://ohwr.org/project/licenses/wikis/cern-ohl-v1.2)
+![GitHub release](https://img.shields.io/github/release-pre/platform-m/pico-itx.svg)
+
 <strong><span class="BalooThambi"><u>m4</u></span><em>ff</em>(Pico ITX)</strong> is a neural processing **Cluster-on-Module**.  This ultra low power SBC  provides **M** in small form factor for development of intelligent solutions. By customizing the **M** node mix to meet your performance and power efficiency profile, you'll be able to create the best platform that fulfils your needs.
 
 ##### Performance
